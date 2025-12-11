@@ -2,7 +2,8 @@
 
 # Hallo! 👋 Ich bin Ham3L
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42B883&center=true&vCenter=true&random=false&width=600&lines=Full-Stack-Entwickler;Rust- & Vue.js-Enthusiast;KI-Enthusiast;Open-Source-Befürworter;Spannende Projekte entwickeln)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42B883&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Rust+%26+Vue.js+Enthusiast;AI+Enthusiast;Open+Source+Advocate;Building+Cool+Things+with+AI)](https://git.io/typing-svg)
 
 <br>
 
