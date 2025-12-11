@@ -65,9 +65,3 @@ Ich liebe es, Ideen in funktionierende Anwendungen zu verwandeln – von Webanwe
 | 📝 **Notizen-App** | Minimalistische Markdown-App | [Live](https://noten.ham3l.cloud) [Code](https://github.com/ham3l/notizen) |
 
 ---
-
-## 📊 GitHub Aktivität
-
-<div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ham3l&theme=vue)
-</div>
