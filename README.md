@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/header.png" alt="Ham3L – Developer, Linux & Open Source" width="100%">
+<img src="./assets/header.PNG" alt="Ham3L – Developer, Linux & Open Source" width="100%">
 
 <br>
 
