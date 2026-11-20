@@ -1,67 +1,72 @@
 <div align="center">
 
-# Hallo! 👋 Ich bin Ham3L
+![Ham3L – Developer · Linux · Open Source](assets/header.svg)
 
+[![Website](https://img.shields.io/badge/Website-ham3l.cloud-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://ham3l.cloud)
+[![GitHub](https://img.shields.io/badge/GitHub-klatschanstalt-181717?style=for-the-badge&logo=github)](https://github.com/klatschanstalt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ham3l-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ham3l/)
+[![X](https://img.shields.io/badge/X-@ham3l-000000?style=for-the-badge&logo=x)](https://x.com/ham3l)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42B883&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Rust+%26+Vue.js+Enthusiast;AI+Enthusiast;Open+Source+Advocate;Building+Cool+Things+with+AI)](https://git.io/typing-svg)
-
-<br>
-
-[![Website](https://img.shields.io/badge/Website-ham3l.cloud-42B883?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ham3l.cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ham3l-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ham3l/)
-[![X](https://img.shields.io/badge/X-@ham3l-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ham3l)
-[![Reddit](https://img.shields.io/badge/Reddit-ham3l-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ham3l/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-ham3l-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ham3l)
+### `> Code. Create. Automate._`
 
 </div>
 
----
+### Über mich
 
-<img align="right" alt="Coding Workspace" width="400" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2VifGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=3000">
+Ich bin **Ham3L** und beschäftige mich mit moderner Webentwicklung, Linux, Self-Hosting und intelligenter Automatisierung. Ich entwickle persönliche Projekte, probiere neue Technologien aus und optimiere bestehende Workflows – mit einem Fokus auf Performance, Wartbarkeit und praktische Lösungen.
 
-## 🚀 Über mich
+- **Web:** Astro, TypeScript, JavaScript und moderne Frontends
+- **Systeme:** Debian, Linux, Serveradministration und Self-Hosting
+- **Automatisierung:** Shell-Skripte, GitHub Actions und KI-gestützte Entwicklung
+- **Interessen:** Open Source, Datenschutz und schlanke Infrastruktur
 
-Ich bin **Ham3L**, ein kreativer Entwickler mit Leidenschaft für sauberen Code, intuitive Benutzeroberflächen und innovative Softwareprojekte.  
-Ich liebe es, Ideen in funktionierende Anwendungen zu verwandeln – von Webanwendungen über Desktop-Apps bis hin zu experimentellen KI-Projekten.
-
-- 🦀 Begeistert von **Rust** für effiziente und sichere Lösungen  
-- 💚 Entwickle elegante Interfaces mit **Vue.js**  
-- 🐧 Linux-Enthusiast, immer auf der Suche nach smarten Workflows  
-- 🌟 Open-Source-Fan: Ich teile Tools und Wissen für die Entwickler-Community  
-- 🚀 Kreativ bei Projekten, die echten Mehrwert schaffen
-
-<br clear="right"/>
-
----
-
-## 🛠️ Technologiestack
+### Tech Stack
 
 <div align="center">
 
-### Programmiersprachen
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Sprachen**
 
-### Frameworks & Bibliotheken
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript, JavaScript, Python, Bash, Rust, HTML und CSS](https://skillicons.dev/icons?i=ts,js,python,bash,rust,html,css&theme=dark)
 
-### Tools & Plattformen
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Frameworks & Tools**
+
+![Astro, Vue, Nuxt, Node.js, Vite und Tailwind CSS](https://skillicons.dev/icons?i=astro,vue,nuxt,nodejs,vite,tailwind&theme=dark)
+
+**Infrastruktur**
+
+![Debian, Linux, Docker, Git, GitHub und SQLite](https://skillicons.dev/icons?i=debian,linux,docker,git,github,sqlite&theme=dark)
 
 </div>
 
+### Projekte
+
+| Projekt | Schwerpunkt | Links |
+| --- | --- | --- |
+| **Ham3L** | Persönliche Website mit Astro, Design und Animationen | [Website](https://ham3l.cloud) · [Repository](https://github.com/klatschanstalt/ham3l.cloud) |
+| **c0re.pw** | Webplattform, Automatisierung und Linux-Betrieb | [Website](https://c0re.pw) · [Repository](https://github.com/klatschanstalt/c0re-pw) |
+
+[Weitere Repositories ansehen](https://github.com/klatschanstalt?tab=repositories)
+
+### GitHub-Aktivität
+
+<div align="center">
+
+![GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=klatschanstalt&show_icons=true&hide_border=true&theme=transparent&title_color=34d399&icon_color=38bdf8)
+
+![Häufig verwendete Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=klatschanstalt&layout=compact&hide_border=true&theme=transparent&title_color=34d399&langs_count=8)
+
+</div>
+
+### Vernetzt bleiben
+
+[Website](https://ham3l.cloud) · [Reddit](https://www.reddit.com/user/ham3l/) · [DEV.to](https://dev.to/ham3l) · [LinkedIn](https://www.linkedin.com/in/ham3l/)
+
 ---
 
-## 🌟 Projekte (Auswahl)
+<div align="center">
 
-| Projekt | Beschreibung | Links |
-|:-------:|-------------|-------|
-| 🌐 **Portfolio** | Meine persönliche Website | [Live](https://ham3l.cloud) [Code](https://github.com/ham3l/portfolio) |
-| 📝 **Notizen-App** | Minimalistische Markdown-App | [Live](https://noten.ham3l.cloud) [Code](https://github.com/ham3l/notizen) |
+**Keep building. Keep learning.**
 
----
+*Neugier ist der Anfang. Code ist das Werkzeug.*
+
+</div>
