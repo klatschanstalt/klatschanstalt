@@ -1,72 +1,120 @@
-<div align="center">
-
-![Ham3L – Developer · Linux · Open Source](assets/header.svg)
-
-[![Website](https://img.shields.io/badge/Website-ham3l.cloud-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://ham3l.cloud)
-[![GitHub](https://img.shields.io/badge/GitHub-klatschanstalt-181717?style=for-the-badge&logo=github)](https://github.com/klatschanstalt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ham3l-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ham3l/)
-[![X](https://img.shields.io/badge/X-@ham3l-000000?style=for-the-badge&logo=x)](https://x.com/ham3l)
-
-### `> Code. Create. Automate._`
-
-</div>
-
-### Über mich
-
-Ich bin **Ham3L** und beschäftige mich mit moderner Webentwicklung, Linux, Self-Hosting und intelligenter Automatisierung. Ich entwickle persönliche Projekte, probiere neue Technologien aus und optimiere bestehende Workflows – mit einem Fokus auf Performance, Wartbarkeit und praktische Lösungen.
-
-- **Web:** Astro, TypeScript, JavaScript und moderne Frontends
-- **Systeme:** Debian, Linux, Serveradministration und Self-Hosting
-- **Automatisierung:** Shell-Skripte, GitHub Actions und KI-gestützte Entwicklung
-- **Interessen:** Open Source, Datenschutz und schlanke Infrastruktur
-
-### Tech Stack
 
 <div align="center">
 
-**Sprachen**
+<img src="./assets/header.png" alt="Ham3L – Developer, Linux & Open Source" width="100%">
 
-![TypeScript, JavaScript, Python, Bash, Rust, HTML und CSS](https://skillicons.dev/icons?i=ts,js,python,bash,rust,html,css&theme=dark)
+<br>
 
-**Frameworks & Tools**
+[![Website](https://img.shields.io/badge/WEBSITE-HAM3L-00D9C0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ham3l.cloud)
+[![GitHub](https://img.shields.io/badge/GITHUB-KLATSCHANSTALT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klatschanstalt)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-HAM3L-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ham3l/)
+[![X](https://img.shields.io/badge/X-@HAM3L-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ham3l)
 
-![Astro, Vue, Nuxt, Node.js, Vite und Tailwind CSS](https://skillicons.dev/icons?i=astro,vue,nuxt,nodejs,vite,tailwind&theme=dark)
+<br>
 
-**Infrastruktur**
+### `> Code. Create. Automate. _`
 
-![Debian, Linux, Docker, Git, GitHub und SQLite](https://skillicons.dev/icons?i=debian,linux,docker,git,github,sqlite&theme=dark)
-
-</div>
-
-### Projekte
-
-| Projekt | Schwerpunkt | Links |
-| --- | --- | --- |
-| **Ham3L** | Persönliche Website mit Astro, Design und Animationen | [Website](https://ham3l.cloud) · [Repository](https://github.com/klatschanstalt/ham3l.cloud) |
-| **c0re.pw** | Webplattform, Automatisierung und Linux-Betrieb | [Website](https://c0re.pw) · [Repository](https://github.com/klatschanstalt/c0re-pw) |
-
-[Weitere Repositories ansehen](https://github.com/klatschanstalt?tab=repositories)
-
-### GitHub-Aktivität
-
-<div align="center">
-
-![GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=klatschanstalt&show_icons=true&hide_border=true&theme=transparent&title_color=34d399&icon_color=38bdf8)
-
-![Häufig verwendete Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=klatschanstalt&layout=compact&hide_border=true&theme=transparent&title_color=34d399&langs_count=8)
+**Developer · Linux Enthusiast · Open Source**
 
 </div>
-
-### Vernetzt bleiben
-
-[Website](https://ham3l.cloud) · [Reddit](https://www.reddit.com/user/ham3l/) · [DEV.to](https://dev.to/ham3l) · [LinkedIn](https://www.linkedin.com/in/ham3l/)
 
 ---
 
+## 👨‍💻 Über mich
+
+Ich bin **Ham3L** und beschäftige mich mit moderner Webentwicklung, Linux, Self-Hosting und intelligenter Automatisierung.
+
+Ich entwickle persönliche Projekte, experimentiere mit neuen Technologien und optimiere bestehende Workflows. Mein Fokus liegt auf Performance, Wartbarkeit, Sicherheit und praktischen Lösungen.
+
+- **Webentwicklung:** Astro, TypeScript, JavaScript und moderne Frontends
+- **Linux & Server:** Debian, Systemadministration und Self-Hosting
+- **Automatisierung:** Bash, Python, GitHub Actions und KI-gestützte Entwicklung
+- **DevOps:** Git, Docker, Deployments und Infrastruktur
+- **Interessen:** Open Source, Datenschutz und effiziente Workflows
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-**Keep building. Keep learning.**
+### Sprachen
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,bash,rust,html,css&theme=dark" alt="TypeScript, JavaScript, Python, Bash, Rust, HTML und CSS">
+
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=astro,vue,nuxt,nodejs,vite,tailwind&theme=dark" alt="Astro, Vue, Nuxt, Node.js, Vite und Tailwind CSS">
+
+### Infrastruktur
+
+<img src="https://skillicons.dev/icons?i=debian,linux,docker,git,github,githubactions,sqlite&theme=dark" alt="Debian, Linux, Docker, Git, GitHub, GitHub Actions und SQLite">
+
+</div>
+
+---
+
+## 🚀 Projekte
+
+### 🌐 Ham3L
+
+Meine persönliche Website mit individuellem Design, Animationen und modernen Webtechnologien.
+
+**Technologien:** Astro · TypeScript · CSS
+
+[![Website](https://img.shields.io/badge/LIVE-WEBSITE-00D9C0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ham3l.cloud)
+[![Repository](https://img.shields.io/badge/SOURCE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klatschanstalt/ham3l.cloud)
+
+### ⚙️ c0re.pw
+
+Webplattform mit Fokus auf moderne Architektur, Automatisierung, Linux-Infrastruktur und zuverlässigen Betrieb.
+
+**Technologien:** Astro · TypeScript · SQLite · Linux
+
+[![Website](https://img.shields.io/badge/LIVE-WEBSITE-00D9C0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://c0re.pw)
+[![Repository](https://img.shields.io/badge/SOURCE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klatschanstalt/c0re-pw)
+
+<br>
+
+<div align="center">
+
+[![Repositories](https://img.shields.io/badge/ALLE-REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klatschanstalt?tab=repositories)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=klatschanstalt&show_icons=true&hide_border=true&bg_color=00000000&title_color=00D9C0&icon_color=38BDF8&text_color=94A3B8&include_all_commits=true" alt="GitHub Statistiken">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klatschanstalt&layout=compact&hide_border=true&bg_color=00000000&title_color=00D9C0&text_color=94A3B8&langs_count=8" alt="Meistverwendete Programmiersprachen">
+
+</div>
+
+---
+
+## 🌍 Vernetzt bleiben
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-Ham3L-00D9C0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ham3l.cloud)
+[![Reddit](https://img.shields.io/badge/Reddit-Ham3L-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ham3l/)
+[![DEV](https://img.shields.io/badge/DEV.to-Ham3L-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ham3l)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ham3L-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ham3l/)
+
+<br>
+
+---
+
+### `> Keep building. Keep learning. _`
 
 *Neugier ist der Anfang. Code ist das Werkzeug.*
+
+**Made with ❤️ and a little bit of caffeine ☕**
 
 </div>
