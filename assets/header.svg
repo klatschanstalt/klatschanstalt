@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ham3L Developer Linux Enthusiast Open Source">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#06111f"/><stop offset="1" stop-color="#073c45"/></linearGradient><linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#34d399"/></linearGradient></defs>
+<rect width="1200" height="300" fill="url(#bg)"/>
+<g fill="#a5f3fc" opacity=".65"><circle cx="90" cy="38" r="2"/><circle cx="560" cy="53" r="1.5"/><circle cx="820" cy="32" r="2"/><circle cx="1090" cy="70" r="2"/><circle cx="950" cy="18" r="1"/></g>
+<path d="M0 220 120 158 200 204 310 125 420 210 550 140 660 210 790 125 900 200 1040 130 1200 205V300H0Z" fill="#0c3447"/>
+<path d="M0 245 160 190 280 238 415 178 540 242 690 183 830 248 980 186 1200 230V300H0Z" fill="#092a39"/>
+<path d="M0 275 200 235 360 269 520 229 700 274 900 233 1080 269 1200 247V300H0Z" fill="#061a2a"/>
+<text x="72" y="115" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="78" fill="#f8fafc">Ham<tspan fill="#34d399">3</tspan>L</text>
+<text x="77" y="154" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="4" fill="#cbd5e1">DEVELOPER · LINUX · OPEN SOURCE</text>
+<rect x="76" y="175" width="255" height="4" rx="2" fill="url(#accent)"/>
+<text x="78" y="209" font-family="monospace" font-size="19" fill="#a5f3fc">Code. Create. Automate.</text>
+<circle cx="1070" cy="89" r="48" fill="#34d399" opacity=".14"/><circle cx="1070" cy="89" r="34" fill="#a5f3fc" opacity=".65"/>
+</svg>
